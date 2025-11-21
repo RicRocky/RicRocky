@@ -19,7 +19,13 @@
   <img width="12" />
   <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript Logo"  /></a>
   <img width="12" />
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React Logo"  /></a>>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next-original.svg" height="30" alt="Next Logo"  /></a>
+  <img width="12" />
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React Logo"  /></a>
+  <img width="12" />
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS Logo"  /></a>
+  <img width="12" />
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap Logo"  /></a>
   <img width="12" />
   <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML logo"  /></a>
   <img width="12" />
