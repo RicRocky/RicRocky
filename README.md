@@ -1,34 +1,35 @@
-<h1 align="left">Halloo, I'm Ricky Cahyadi</h1>
-<hr>
+<h1 align="left">Hii🙌, I'm Ricky Cahyadi</h1>
+<p>I'm a 5th-semester Informatics student at the University of Surabaya, majoring in Information Management & Enterprise Systems (IMES), focusing on application development. I'm proficient in website development, database design, and object-oriented programming. I'm accustomed to building/working on projects collaboratively.</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricrocky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricrocky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=ricrocky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"/></a>
+  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricrocky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  /></a>
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel Logo"  /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript Logo"  /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript Logo"  /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React Logo"  /></a>>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML logo"  /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS Logo"  /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# Logo"  /></a>
+  <img width="12" />
 </div>
+
+###
 
 ###
 
@@ -40,11 +41,5 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
