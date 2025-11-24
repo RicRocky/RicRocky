@@ -34,6 +34,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS Logo"/></a>
     <img width="12" />
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C# Logo"/></a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="C# Logo"/></a>
     <img width="12" />
 </div>
 
