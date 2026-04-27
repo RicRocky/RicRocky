@@ -1,5 +1,5 @@
 <h1 align="left">Hii🙌, I'm Ricky Cahyadi</h1>
-<p>I'm a 5th-semester Informatics student at the University of Surabaya, majoring in Information Management & Enterprise Systems (IMES), focusing on application development. I'm proficient in website development, database design, and object-oriented programming. I'm accustomed to building/working on projects collaboratively.</p>
+<p>I'm a 6th-semester Informatics student at the University of Surabaya, majoring in Information Management & Enterprise Systems (IMES), focusing on application development. I'm proficient in website development, database design, and object-oriented programming. I'm accustomed to building/working on projects collaboratively.</p>
 
 ###
 
