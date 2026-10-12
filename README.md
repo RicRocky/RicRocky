@@ -1,5 +1,5 @@
 <h1 align="left">Hii🙌, I'm Ricky Cahyadi</h1>
-<p>I'm a 6th-semester Informatics student at the University of Surabaya, majoring in Information Management & Enterprise Systems (IMES), focusing on application development. I'm proficient in website development, database design, and object-oriented programming. I'm accustomed to building/working on projects collaboratively.</p>
+<p>I'm a 7th-semester Informatics student at the University of Surabaya, majoring in Information Management & Enterprise Systems (IMES), focusing on application development. I'm proficient in website development and object-oriented programming. I'm accustomed to building/working on projects collaboratively.</p>
 
 ###
 
@@ -11,10 +11,7 @@
 <div align="left">
     <a href="https://laravel.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel Logo"/></a>
     <img width="12" />
-    <a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next Logo"/></a>
-    <img width="12" />
-    <a href="https://react.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React Logo"/></a>
-    <img width="12" />
+    
     <a href="https://www.typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript Logo"/></a>
     <img width="12" />
     <a href="https://www.w3schools.com/js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript Logo"/></a>
