@@ -11,7 +11,6 @@
 <div align="left">
     <a href="https://laravel.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel Logo"/></a>
     <img width="12" />
-    
     <a href="https://www.typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript Logo"/></a>
     <img width="12" />
     <a href="https://www.w3schools.com/js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript Logo"/></a>
